@@ -18,6 +18,6 @@ Data Science: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 AI/ML: TensorFlow, PyTorch
 
-Web Applications for ML: Streamlit, Gradio, Tkinter, Flask/Django
+Web Applications for ML: Streamlit, Gradio, Tkinter
 
 Tools:  Jupyter, VS Code
